@@ -1,4 +1,4 @@
-BOJ 생성되는 파일 이름 변경 (문제 제목 -> 문제 번호).cpp
+BOJ 생성되는 파일 이름 변경 문제 제목.cpp -> 문제 번호.cpp
 
 ## Running locally
 The following commands can be used to start working on Competitive Companion locally. Additionally, make sure you got [Node.js](https://nodejs.org/en/) and [PNPM](https://pnpm.io/) installed.

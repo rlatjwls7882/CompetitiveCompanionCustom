@@ -21,6 +21,8 @@ pnpm build:chrome
 
 # Build the Firefox code to the build-firefox/ directory
 pnpm build:firefox
+
+# 이후 생성되는 파일 build-chrome build-firefox 파일 크롬 익스텐션에서 로드
 ```
 
 ## Tools that use Competitive Companion
